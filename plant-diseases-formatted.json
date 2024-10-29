@@ -1,0 +1,133 @@
+{
+    "Apple___Apple_scab": {
+        "en": {
+            "description": "Apple scab is a fungal disease caused by *Venturia inaequalis* that primarily affects apple trees, resulting in dark, scabby lesions on leaves and fruits. It spreads in cool, moist conditions, affecting the quality and marketability of apples. In severe cases, it can cause premature fruit drop and reduced yields.",
+            "cure_methods": [
+                "Apply fungicides like Captan or Mancozeb during early stages of infection",
+                "Use resistant apple varieties to minimize disease occurrence",
+                "Remove fallen leaves and prune infected branches to reduce fungal spores"
+            ],
+            "precautionary_measures": [
+                "Ensure proper spacing between trees for air circulation",
+                "Avoid overhead irrigation that leaves the foliage wet",
+                "Regularly clean up plant debris and apply protective fungicides before rainy seasons"
+            ]
+        },
+        "te": {
+            "description": "ఆపిల్ స్కాబ్ అనేది *వెంట్యూరియా ఇనీక్వాలిస్* అనే శిలీంధ్రం వల్ల కలిగే వ్యాధి, ఇది ముఖ్యంగా ఆపిల్ చెట్లను ప్రభావితం చేస్తుంది, ఆకులు మరియు పండ్లపై నల్లని, గజ్జి వంటి గాయాలను కలిగిస్తుంది. ఇది చల్లని, తేమతో కూడిన పరిస్థితులలో వ్యాప్తి చెందుతుంది, ఆపిల్స్ నాణ్యత మరియు మార్కెటింగ్‌ను ప్రభావితం చేస్తుంది.",
+            "cure_methods": [
+                "సోంక్యాది దశలలో కాప్టాన్ లేదా మాంకోజెబ్ వంటి శిలీంధ్రనాశకాలను వాడండి",
+                "వ్యాధి నిరోధక ఆపిల్ రకాలను ఉపయోగించి వ్యాధి సంభవించే అవకాశాన్ని తగ్గించండి",
+                "శిలీంధ్ర బీజాలను తగ్గించడానికి రాలిన ఆకులను తొలగించండి"
+            ],
+            "precautionary_measures": [
+                "గాలి ప్రసరణ కోసం చెట్ల మధ్య సరైన అంతరం ఉండేలా చూడండి",
+                "ఆకులను తడిగా ఉంచే ఓవర్‌హెడ్ జలసేచనను నివారించండి",
+                "క్రమం తప్పకుండా మొక్కల శిథిలాలను శుభ్రపరచండి"
+            ]
+        }
+    },
+    "Apple___Black_rot": {
+        "en": {
+            "description": "Apple black rot is a fungal disease caused by *Botryosphaeria obtusa*, affecting apple trees by creating dark, sunken lesions on the fruit, leaves, and bark. The disease typically spreads in warm, humid environments and can lead to fruit rot and branch dieback.",
+            "cure_methods": [
+                "Use fungicides like Captan or Thiophanate-methyl during early infection",
+                "Prune and remove infected branches to prevent further spread",
+                "Apply dormant oil sprays to reduce overwintering fungal spores"
+            ],
+            "precautionary_measures": [
+                "Remove and destroy fallen fruit and leaves to eliminate fungal sources",
+                "Ensure proper air circulation and sunlight by pruning overcrowded areas",
+                "Avoid tree stress by proper watering and fertilization"
+            ]
+        },
+        "te": {
+            "description": "ఆపిల్ బ్లాక్ రాట్ అనేది *బోట్రయోస్ఫేరియా ఒబ్టూసా* అనే శిలీంధ్రం వల్ల కలిగే వ్యాధి. ఇది పండ్లు, ఆకులు మరియు బెరడుపై నల్లని, లోతైన గాయాలను సృష్టించడం ద్వారా ఆపిల్ చెట్లను ప్రభావితం చేస్తుంది.",
+            "cure_methods": [
+                "ప్రారంభ సోంక్య సమయంలో కాప్టాన్ లేదా థయోఫనేట్-మెథైల్ వంటి శిలీంధ్రనాశకాలను ఉపయోగించండి",
+                "మరింత వ్యాప్తిని నివారించడానికి సోకిన కొమ్మలను కత్తిరించి తొలగించండి",
+                "శీతాకాలంలో శిలీంధ్ర బీజాలను తగ్గించడానికి నిద్రావస్థ నూనె స్ప్రేలను వేయండి"
+            ],
+            "precautionary_measures": [
+                "శిలీంధ్ర వనరులను తొలగించడానికి రాలిన పండ్లు మరియు ఆకులను తొలగించండి",
+                "అధిక దట్టమైన ప్రాంతాలను కత్తిరించడం ద్వారా సరైన గాలి ప్రసరణ మరియు సూర్యరశ్మిని నిర్ధారించండి",
+                "సరైన నీటి తడి మరియు ఎరువుల ద్వారా చెట్ల ఒత్తిడిని నివారించండి"
+            ]
+        }
+    },
+    "Cherry___Powdery_mildew": {
+        "en": {
+            "description": "Powdery mildew on cherry trees is a fungal disease caused by *Podosphaera clandestina*. It appears as a white powdery coating on leaves, shoots, and sometimes fruits, leading to stunted growth, leaf drop, and reduced fruit quality.",
+            "cure_methods": [
+                "Apply fungicides such as sulfur, neem oil, or potassium bicarbonate when symptoms first appear",
+                "Prune infected shoots and branches to reduce the spread of the fungus",
+                "Use resistant cherry tree varieties to minimize infection risk"
+            ],
+            "precautionary_measures": [
+                "Avoid overhead irrigation that leaves leaves wet and promotes fungal growth",
+                "Inspect trees frequently during the growing season and treat early at the first sign of infection",
+                "Maintain a clean garden by removing fallen leaves and other plant debris"
+            ]
+        },
+        "te": {
+            "description": "చెర్రీ చెట్లపై పౌడరీ బూజు *పోడోస్ఫేరా క్లాండెస్టినా* అనే శిలీంధ్రం వల్ల కలిగే వ్యాధి. ఇది ఆకులు, చిగుళ్ళు, మరియు కొన్నిసార్లు పండ్లపై తెల్లని పొడి పూత వలె కనిపిస్తుంది.",
+            "cure_methods": [
+                "లక్షణాలు మొదట కనిపించినప్పుడు సల్ఫర్, వేప నూనె లేదా పొటాషియం బైకార్బొనేట్ వంటి శిలీంధ్రనాశకాలను వేయండి",
+                "శిలీంధ్రం వ్యాప్తిని తగ్గించడానికి సోకిన చిగుళ్ళు మరియు కొమ్మలను కత్తిరించండి",
+                "సోంక్య ప్రమాదాన్ని తగ్గించడానికి నిరోధక చెర్రీ చెట్ల రకాలను ఉపయోగించండి"
+            ],
+            "precautionary_measures": [
+                "ఆకులను తడిగా ఉంచి శిలీంధ్ర పెరుగుదలను ప్రోత్సహించే ఓవర్‌హెడ్ జలసేచనను నివారించండి",
+                "పెరుగుదల కాలంలో చెట్లను తరచుగా తనిఖీ చేయండి మరియు సోంక్య మొదటి సంకేతంలోనే చికిత్స చేయండి",
+                "రాలిన ఆకులు మరియు ఇతర మొక్కల శిథిలాలను తొలగించడం ద్వారా తోటను శుభ్రంగా ఉంచండి"
+            ]
+        }
+    },
+    "Corn___Cercospora_leaf_spot": {
+        "en": {
+            "description": "Cercospora leaf spot, also known as gray leaf spot in corn, is caused by the fungus *Cercospora zeae-maydis*. It manifests as rectangular gray or tan lesions on the leaves, which can reduce photosynthesis and significantly lower yields if left untreated.",
+            "cure_methods": [
+                "Apply fungicides like Azoxystrobin or Pyraclostrobin early in the disease cycle",
+                "Rotate crops with non-host plants to break the disease cycle",
+                "Use disease-resistant corn hybrids to reduce susceptibility"
+            ],
+            "precautionary_measures": [
+                "Avoid planting corn in fields where gray leaf spot has been severe in previous years",
+                "Practice proper tillage to bury infected crop residues",
+                "Monitor crops regularly, especially in warm, humid conditions"
+            ]
+        },
+        "te": {
+            "description": "సెర్కోస్పోరా ఆకు మచ్చ, మొక్కజొన్నలో గ్రే లీఫ్ స్పాట్ అని కూడా పిలుస్తారు, ఇది *సెర్కోస్పోరా జీ-మైడిస్* అనే శిలీంధ్రం వల్ల కలుగుతుంది.",
+            "cure_methods": [
+                "వ్యాధి చక్రం ప్రారంభంలో అజోక్సిస్ట్రోబిన్ లేదా పైరాక్లోస్ట్రోబిన్ వంటి శిలీంధ్రనాశకాలను వేయండి",
+                "వ్యాధి చక్రాన్ని విచ్ఛిన్నం చేయడానికి ఆతిథ్య-కాని మొక్కలతో పంటల మార్పిడి చేయండి",
+                "సున్నితత్వాన్ని తగ్గించడానికి వ్యాధి నిరోధక మొక్కజొన్న హైబ్రిడ్‌లను ఉపయోగించండి"
+            ],
+            "precautionary_measures": [
+                "గతంలో గ్రే లీఫ్ స్పాట్ తీవ్రంగా ఉన్న పొలాల్లో మొక్కజొన్నను నాటడాన్ని నివారించండి",
+                "సోకిన పంట అవశేషాలను పాతిపెట్టడానికి సరైన దున్నడం ఆచరించండి",
+                "ముఖ్యంగా వేడి, తేమతో కూడిన పరిస్థితులలో పంటలను క్రమం తప్పకుండా పర్యవేక్షించండి"
+            ]
+        }
+    },
+    "Corn___Common_rust": {
+        "en": {
+            "description": "Common rust in corn is caused by the fungus *Puccinia sorghi*. It appears as reddish-brown pustules on both sides of the leaves, which can slow photosynthesis and stunt plant growth if the infection becomes severe.",
+            "cure_methods": [
+                "Apply fungicides such as Azoxystrobin or Mancozeb during the early stages of infection",
+                "Plant rust-resistant corn hybrids to prevent infection",
+                "Rotate crops to reduce the persistence of fungal spores in the soil"
+            ],
+            "precautionary_measures": [
+                "Avoid overhead irrigation, which can increase leaf wetness and promote fungal growth",
+                "Monitor fields regularly, especially in warm, humid conditions",
+                "Practice crop rotation to minimize the buildup of rust spores in the soil"
+            ]
+        },
+        "te": {
+            "description": "మొక్కజొన్నలో సాధారణ తుప్పు *పక్సీనియా సోర్గి* అనే శిలీంధ్రం వల్ల కలుగుతుంది. ఇది ఆకుల రెండు వైపులా ఎరుపు-గోధుమ రంగు పుస్తులుగా కనిపిస్తుంది.",
+            "cure_methods": [
+                "సోంక్య ప్రారంభ దశలలో అజోక్సిస్ట్రోబిన్ లేదా మాంకోజెబ్ వంటి శిలీంధ్రనాశకాలను వేయండి",
+                "సోంక్యను నివారించడానికి తుప్పు-నిరోధక మొక్కజొన్న హైబ్రిడ్‌లను నాటండి",
+                "నేలలో శిలీంధ్ర బీజాల స్థిరత్వాన్ని తగ్గించడానికి పంటల మార్పిడి చేయ
